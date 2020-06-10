@@ -16,16 +16,22 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 .reveal .slides {
   text-align: left;
-  text-indent: 20px;
+  }
+
+  .lil {
+    font-size: 20px;
+    width: 60%;
   }
 
 .bul {
-  padding-left: 30px;
+  padding-left: 50px;
   margin-left: 30px!important;
   background-image: url('../../img/bul.png');
   background-position: left;
   background-repeat: no-repeat;
   } 
+
+
 
 /*********************************************
  * GLOBAL STYLES
